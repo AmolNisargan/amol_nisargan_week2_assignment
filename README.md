@@ -90,7 +90,7 @@ System.out.println("Custom Area: " + customArea);
    ```
 2. Compile the classes:
    ```bash
-   javac Week_2_Assignment/*.java
+   javac amol_nisargan_week2_assignment/*.java
    ```
 3. Run each class individually:
    ```bash
