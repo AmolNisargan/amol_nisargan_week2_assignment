@@ -94,9 +94,9 @@ System.out.println("Custom Area: " + customArea);
    ```
 3. Run each class individually:
    ```bash
-   java Week_2_Assignment.Person
-   java Week_2_Assignment.BankAccount
-   java Week_2_Assignment.Rectangle
+   java amol_nisargan_week2_assignment.Person
+   java amol_nisargan_week2_assignment.BankAccount
+   java amol_nisargan_week2_assignment.Rectangle
    ```
 
 ---
