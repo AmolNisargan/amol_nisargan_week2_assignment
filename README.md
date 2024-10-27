@@ -1,5 +1,3 @@
-Here's a sample README file for your GitHub repository, documenting the three classes: `Person`, `BankAccount`, and `Rectangle`.
-
 ---
 
 # Week_2_Assignment
@@ -88,7 +86,7 @@ System.out.println("Custom Area: " + customArea);
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AmolNisargan/Week_2_Assignment.git
+   git clone https://github.com/AmolNisargan/amol_nisargan_week2_assignment.git
    ```
 2. Compile the classes:
    ```bash
